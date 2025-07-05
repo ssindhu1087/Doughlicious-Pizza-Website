@@ -4,12 +4,12 @@ Welcome to Doughlicious , a modern and responsive pizza restaurant website built
 
 ## Features
 
-- **🍕 Responsive design (mobile, tablet, desktop).
-- **🧾 Interactive menu with pizza descriptions and prices.
-- **🧭 Smooth navigation with fixed navbar.
-- **🔥 CSS transitions and hover effects
-- **💡 Light animations and effects
-- **📍 Contact form and location map integration
+- 🍕 Responsive design (mobile, tablet, desktop).
+- 🧾 Interactive menu with pizza descriptions and prices.
+- 🧭 Smooth navigation with fixed navbar.
+- 🔥 CSS transitions and hover effects
+- 💡 Light animations and effects
+- 📍 Contact form and location map integration
 
 ## Screenshots
 
@@ -33,9 +33,9 @@ Welcome to Doughlicious , a modern and responsive pizza restaurant website built
 
 ## Future Improvements
 
-- **Add a backend (Node.js or Firebase) for real ordering
-- **Implement a shopping cart
-- **Add user login & registration
+- Add a backend (Node.js or Firebase) for real ordering
+- Implement a shopping cart
+- Add user login & registration
 
 
 
