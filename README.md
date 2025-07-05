@@ -19,7 +19,7 @@ Welcome to Doughlicious , a modern and responsive pizza restaurant website built
 ## Product Detail Page
 ![image](https://github.com/user-attachments/assets/bf9996f5-1f72-4859-a2f7-0f11ae2925ef)
 
-#3 About Page
+## About Page
 ![image](https://github.com/user-attachments/assets/6fac26a8-0fec-4dc9-a551-a5a33d94a81b)
 
 #3 Contact Page
